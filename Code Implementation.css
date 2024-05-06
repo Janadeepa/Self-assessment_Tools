@@ -1,0 +1,14 @@
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.question {
+  margin-bottom: 20px;
+}
+
+button {
+  display: block;
+  margin-top: 10px;
+}
