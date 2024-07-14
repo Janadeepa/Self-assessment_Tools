@@ -8,7 +8,7 @@ document.getElementById('assessment-form').addEventListener('submit', function(e
   // Calculate total score
   const totalScore = q1 /* + ... */;
 
-  // Display assessment results
+  // Display assessment results masege
   let message;
   if (totalScore >= 0 && totalScore < 20) {
     message = "Your digital habits seem healthy! Keep up the good work.";
@@ -16,6 +16,7 @@ document.getElementById('assessment-form').addEventListener('submit', function(e
     message = "There is room for improvement in some areas of your digital habits.";
   } else {
     message = "Your digital habits may be negatively impacting your well-being. Consider making changes.";
+//finally run (results)
   }
   document.getElementById('results').textContent = message;
 });
