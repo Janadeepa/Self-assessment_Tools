@@ -24,7 +24,7 @@ Access to a curated collection of tools and resources to support your digital we
 * 📂 Database: MongoDB
 
 ### 🚀 Getting Started
-1. Clone the repository: `git clone https://github.com/[Your-Username]/Self-assessment_Tools.git`
+1. Clone the repository: `git clone https://github.com/Janadeepa/Self-assessment_Tools.git`
 2. Install dependencies: `npm install` or `yarn install`
 3. Start the application: `npm start` or `yarn start`
 
